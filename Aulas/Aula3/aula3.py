@@ -49,8 +49,8 @@ def gera_html(filename, conceitos_dict):
     html = """
 <html>
     <head>
-    <title> Dicionário Médico </title>
-    <meta charset="UTF-8"/>
+        <title> Dicionário Médico </title>
+        <meta charset="UTF-8"/>
     </head>
     <body>"""
 
